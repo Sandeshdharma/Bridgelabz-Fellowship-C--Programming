@@ -1,2 +1,2 @@
-# Bridgelabz-Fellowship-C--Programming
+# Bridgelabz-Fellowship-C sharp-Programming
 Bridgelabz Training
